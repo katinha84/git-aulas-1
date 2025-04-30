@@ -1,0 +1,20 @@
+p{
+    color: fuchsia !important;
+    background-color: darkgreen;
+}
+#paragrafo{
+    color: crimson;
+    background-color: gold;
+}
+#paragrafo{
+    color: aquamarine;
+}
+.paragrafo{
+    color: blueviolet;
+}
+p{
+    color: brown;
+}
+p{ 
+    color: blue;
+}

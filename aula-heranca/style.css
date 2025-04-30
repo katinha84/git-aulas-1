@@ -1,0 +1,12 @@
+ p {
+    color: red;
+}
+div p{
+    color: blue;
+}
+.section > p {
+color: blueviolet;
+}
+#primeira-section p {
+    color: brown;
+}
